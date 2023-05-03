@@ -1,0 +1,30 @@
+body {
+    background-color: #e1dd72;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+#container {
+    background-color: #a8c66c;
+    border: 5px solid #1b6535;
+    height: 275px;
+    margin: 0px 400px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 24px;
+}
+
+#input {
+    width: 100px;
+    margin: 25px auto;
+    border-radius: 8px;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+    padding: 2px 19px;
+}
